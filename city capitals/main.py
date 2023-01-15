@@ -10,7 +10,7 @@ indian_states = {
     "Gujarat": "Gandhinagar",
     "Haryana": "Chandigarh",
     "Himachal Pradesh": "Shimla",
-    "Jharkhand": "Ranchi"
+    "Jharkhand": "Ranchi",
 }
 
 state = input("See capital of a state: ")
