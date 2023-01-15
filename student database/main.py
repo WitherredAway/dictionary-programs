@@ -1,3 +1,6 @@
+"""Program to manage a database of students using dictionaries"""
+
+
 import time
 
 
