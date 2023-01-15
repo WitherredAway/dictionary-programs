@@ -14,4 +14,4 @@ indian_states = {
 }
 
 state = input("See capital of a state: ")
-print(indian_states.get(state.capitalize()))
+print(indian_states.get(state.title()))
