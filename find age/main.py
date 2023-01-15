@@ -1,3 +1,5 @@
+"""Program that stores name and age of people and allows user to see age of an user"""
+
 people = {"John": 25, "Mary": 32, "Kevin": 40, "Amy": 22}
 
 
