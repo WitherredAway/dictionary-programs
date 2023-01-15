@@ -1,6 +1,6 @@
-"""Program to view capital of a city from a dictionary"""
+"""Program to view capital of a state from a dictionary"""
 
-indian_cities = {
+indian_states = {
     "Andhra Pradesh": "Amaravati",
     "Arunachal Pradesh": "Itanagar",
     "Assam": "Dispur",
@@ -13,5 +13,5 @@ indian_cities = {
     "Jharkhand": "Ranchi"
 }
 
-city = input("See capital of a city: ")
-print(indian_cities.get(city.capitalize()))
+state = input("See capital of a state: ")
+print(indian_states.get(state.capitalize()))
